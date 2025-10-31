@@ -1,0 +1,6 @@
+username,password,library_id
+admin_central,password123,1
+admin_south,libpass456,2
+admin_north,north789,4
+admin_district,distpass000,7
+admin_east,eastpass999,5

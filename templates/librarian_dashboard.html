@@ -1,0 +1,105 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="row">
+  <div class="col-12">
+    <h5 class="mb-3">Librarian Dashboard - Library {{ library_id }}</h5>
+
+    <ul class="nav nav-tabs" id="dashboardTabs" role="tablist">
+      <li class="nav-item" role="presentation">
+        <button class="nav-link active" id="my-library-tab" data-bs-toggle="tab" data-bs-target="#my-library" type="button" role="tab" aria-controls="my-library" aria-selected="true">My Library</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="shared-view-tab" data-bs-toggle="tab" data-bs-target="#shared-view" type="button" role="tab" aria-controls="shared-view" aria-selected="false">Shared View</button>
+      </li>
+    </ul>
+
+    <div class="tab-content pt-3" id="dashboardTabsContent">
+      <div class="tab-pane fade show active" id="my-library" role="tabpanel" aria-labelledby="my-library-tab">
+        <div class="row g-3 align-items-end">
+          <div class="col-12 col-md-6 col-lg-4">
+            <form method="POST" action="{{ url_for('dashboard', library_id=library_id) }}">
+              <input type="hidden" name="action" value="add">
+              <div class="mb-2">
+                <label class="form-label" for="title">Title</label>
+                <input type="text" class="form-control" id="title" name="title" required>
+              </div>
+              <div class="mb-2">
+                <label class="form-label" for="author">Author</label>
+                <input type="text" class="form-control" id="author" name="author" required>
+              </div>
+              <button type="submit" class="btn btn-success">Add Book</button>
+            </form>
+          </div>
+        </div>
+
+        <hr class="my-4">
+
+        <div class="table-responsive">
+          <table class="table table-striped align-middle">
+            <thead>
+              <tr>
+                <th>Book ID</th>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for b in my_books %}
+              <tr>
+                <td>{{ b.book_id }}</td>
+                <td>{{ b.title }}</td>
+                <td>{{ b.author }}</td>
+                <td>
+                  <div class="d-flex gap-2">
+                    <form method="POST" action="{{ url_for('dashboard', library_id=library_id) }}" class="d-inline">
+                      <input type="hidden" name="action" value="edit">
+                      <input type="hidden" name="book_id" value="{{ b.book_id }}">
+                      <input type="text" name="title" value="{{ b.title }}" class="form-control form-control-sm" required>
+                      <input type="text" name="author" value="{{ b.author }}" class="form-control form-control-sm" required>
+                      <button type="submit" class="btn btn-sm btn-primary">Save</button>
+                    </form>
+                    <form method="POST" action="{{ url_for('dashboard', library_id=library_id) }}" class="d-inline" onsubmit="return confirm('Delete this book?');">
+                      <input type="hidden" name="action" value="delete">
+                      <input type="hidden" name="book_id" value="{{ b.book_id }}">
+                      <button type="submit" class="btn btn-sm btn-danger">Delete</button>
+                    </form>
+                  </div>
+                </td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="tab-pane fade" id="shared-view" role="tabpanel" aria-labelledby="shared-view-tab">
+        <div class="table-responsive">
+          <table class="table table-hover align-middle">
+            <thead>
+              <tr>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Library</th>
+                <th>Pincode</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for r in shared_view %}
+              <tr>
+                <td>{{ r.title }}</td>
+                <td>{{ r.author }}</td>
+                <td>{{ r.name }}</td>
+                <td>{{ r.pincode }}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+

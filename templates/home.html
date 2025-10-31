@@ -1,0 +1,38 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="row justify-content-center">
+  <div class="col-12 col-md-8 col-lg-6">
+    <div class="card shadow-sm">
+      <div class="card-body">
+        <h5 class="card-title mb-3">Search for Books</h5>
+        <form method="POST" action="{{ url_for('search') }}">
+          <div class="mb-3">
+            <label for="title" class="form-label">Book Title</label>
+            <input type="text" class="form-control" id="title" name="title" placeholder="e.g., Harry" required>
+          </div>
+          <div class="mb-3">
+            <label for="author" class="form-label">Author (optional)</label>
+            <input type="text" class="form-control" id="author" name="author" placeholder="e.g., Rowling">
+          </div>
+          <div class="mb-3">
+            <label for="pincode" class="form-label">Pincode</label>
+            <select class="form-select" id="pincode" name="pincode" required>
+              <option value="" disabled selected>Select pincode</option>
+              {% for pin in pincodes %}
+              <option value="{{ pin }}">{{ pin }}</option>
+              {% endfor %}
+            </select>
+          </div>
+          <div class="d-flex gap-2">
+            <button type="submit" class="btn btn-primary">Search</button>
+            <a href="{{ url_for('all_books') }}" class="btn btn-outline-secondary">View All Titles</a>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+  
+</div>
+{% endblock %}
+
+
