@@ -1,101 +1,21 @@
 book_id,title,author,library_id
-1,The Da Vinci Code,Dan Brown,1
-2,Harry Potter and the Deathly Hallows,J.K. Rowling,2
-3,Harry Potter and the Philosopher's Stone,J.K. Rowling,3
-4,Harry Potter and the Order of the Phoenix,J.K. Rowling,4
-5,Fifty Shades of Grey,E. L. James,5
-6,Harry Potter and the Goblet of Fire,J.K. Rowling,6
-7,Harry Potter and the Chamber of Secrets,J.K. Rowling,7
-8,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,8
-9,Angels and Demons,Dan Brown,9
-10,Harry Potter and the Half-blood Prince: Children's Edition,J.K. Rowling,10
-11,Fifty Shades Darker,E. L. James,11
-12,Twilight,Stephenie Meyer,12
-13,The Girl with the Dragon Tattoo: Millennium Trilogy,Stieg Larsson,13
-14,Fifty Shades Freed,E. L. James,14
-15,The Lost Symbol,Dan Brown,15
-16,New Moon,Stephenie Meyer,16
-17,Deception Point,Dan Brown,17
-18,Eclipse,Stephenie Meyer,18
-19,The Lovely Bones,Alice Sebold,19
-20,The Curious Incident of the Dog in the Night-time,Mark Haddon,20
-21,Digital Fortress,Dan Brown,21
-22,A Short History of Nearly Everything,Bill Bryson,22
-23,The Girl Who Played with Fire: Millennium Trilogy,Stieg Larsson,23
-24,Breaking Dawn,Stephenie Meyer,24
-25,The Very Hungry Caterpillar,Eric Carle,25
-26,The Gruffalo,Julia Donaldson,26
-27,Jamie's 30-Minute Meals,Jamie Oliver,27
-28,The Kite Runner,Khaled Hosseini,28
-29,One Day,David Nicholls,29
-30,A Thousand Splendid Suns,Khaled Hosseini,30
-31,The Girl Who Kicked the Hornets' Nest: Millennium Trilogy,Stieg Larsson,31
-32,The Time Traveler's Wife,Audrey Niffenegger,32
-33,Atonement,Ian McEwan,33
-34,Bridget Jones's Diary,Helen Fielding,34
-35,The World According to Clarkson,Jeremy Clarkson,35
-36,Captain Corelli's Mandolin,Louis de Bernieres,36
-37,The Sound of Laughter,Peter Kay,37
-38,Life of Pi,Yann Martel,38
-39,Billy Connolly,Pamela Stephenson,39
-40,A Child Called It,Dave Pelzer,40
-41,The Gruffalo's Child,Julia Donaldson,41
-42,Angela's Ashes,Frank McCourt,42
-43,Birdsong,Sebastian Faulks,43
-44,Northern Lights: His Dark Materials,Philip Pullman,44
-45,Labyrinth,Kate Mosse,45
-46,Harry Potter and the Half-blood Prince,J.K. Rowling,46
-47,The Help,Kathryn Stockett,47
-48,Man and Boy,Tony Parsons,48
-49,Memoirs of a Geisha,Arthur Golden,49
-50,The No.1 Ladies' Detective Agency,Alexander McCall Smith,50
-51,The Island,Victoria Hislop,51
-52,"PS, I Love You",Cecelia Ahern,52
-53,You Are What You Eat,Gillian McKeith,53
-54,The Shadow of the Wind,Carlos Ruiz Zafon,54
-55,The Tales of Beedle the Bard,J.K. Rowling,55
-56,The Broker,John Grisham,56
-57,Dr. Atkins' New Diet Revolution,Robert C. Atkins,57
-58,The Subtle Knife,Philip Pullman,58
-59,"Eats, Shoots and Leaves,Lynne Truss",59
-60,Delia's How to Cook,Delia Smith,60
-61,Chocolat,Joanne Harris,61
-62,The Boy in the Striped Pyjamas,John Boyne,62
-63,My Sister's Keeper,Jodi Picoult,63
-64,The Amber Spyglass,Philip Pullman,64
-65,To Kill a Mockingbird,Harper Lee,65
-66,"Men Are from Mars, Women Are from Venus",John Gray,66
-67,Dear Fatty,Dawn French,67
-68,A Short History of Tractors in Ukrainian,Marina Lewycka,68
-69,Hannibal,Thomas Harris,69
-70,The Lord of the Rings,J.R.R. Tolkien,70
-71,Stupid White Men,Michael Moore,71
-72,The Interpretation of Murder,Jed Rubenfeld,72
-73,Sharon Osbourne Extreme,Sharon Osbourne,73
-74,The Alchemist,Paulo Coelho,74
-75,At My Mother's Knee,Paul O'Grady,75
-76,Notes from a Small Island,Bill Bryson,76
-77,The Return of the Naked Chef,Jamie Oliver,77
-78,Bridget Jones: The Edge of Reason,Helen Fielding,78
-79,Jamie's Italy,Jamie Oliver,79
-80,I Can Make You Thin,Paul McKenna,80
-81,Down Under,Bill Bryson,81
-82,The Summons,John Grisham,82
-83,Small Island,Andrea Levy,83
-84,Nigella Express,Nigella Lawson,84
-85,Brick Lane,Monica Ali,85
-86,The Memory Keeper's Daughter,Kim Edwards,86
-87,Room on the Broom,Julia Donaldson,87
-88,About a Boy,Nick Hornby,88
-89,My Booky Wook,Russell Brand,89
-90,The God Delusion,Richard Dawkins,90
-91,The Beano Annual,Unknown,91
-92,White Teeth,Zadie Smith,92
-93,The House at Riverton, Kate Morton,93
-94,The Book Thief,Markus Zusak,94
-95,Nights of Rain and Stars,Maeve Binchy,95
-96,The Ghost,Robert Harris,96
-97,Happy Days with the Naked Chef,Jamie Oliver,97
-98,The Hunger Games,Suzanne Collins,98
-99,The Lost Boy,Dave Pelzer,99
-100,Jamie's Ministry of Food,Jamie Oliver,100
+1,Python for Beginners,John Smith,1
+2,Harry Potter and the Philosopher's Stone,J.K. Rowling,2
+3,To Kill a Mockingbird,Harper Lee,1
+4,1984,George Orwell,3
+5,The Great Gatsby,F. Scott Fitzgerald,2
+6,Pride and Prejudice,Jane Austen,4
+7,Sapiens: A Brief History of Humankind,Yuval Noah Harari,5
+8,The Alchemist,Paulo Coelho,1
+9,Data Science for Dummies,Michael Grogan,6
+10,Atomic Habits,James Clear,7
+11,The Da Vinci Code,Dan Brown,2
+12,Rich Dad Poor Dad,Robert Kiyosaki,3
+13,Thinking Fast and Slow,Daniel Kahneman,4
+14,The Subtle Art of Not Giving a F*ck,Mark Manson,5
+15,Python Crash Course,Eric Matthes,1
+16,Harry Potter and the Chamber of Secrets,J.K. Rowling,8
+17,Brave New World,Aldous Huxley,6
+18,Educated,Tara Westover,7
+19,Becoming,Michelle Obama,2
+20,The Midnight Library,Matt Haig,3
