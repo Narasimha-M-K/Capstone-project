@@ -1,0 +1,1193 @@
+book_id,title,author,library_id
+1,none,none,1000
+2,"da vinci code,the","brown, dan",1022
+3,harry potter and the deathly hallows,"rowling, j.k.",1023
+4,harry potter and the philosopher's stone,"rowling, j.k.",1024
+5,harry potter and the order of the phoenix,"rowling, j.k.",1025
+6,fifty shades of grey,"james, e. l.",1026
+7,harry potter and the goblet of fire,"rowling, j.k.",1027
+8,harry potter and the chamber of secrets,"rowling, j.k.",1028
+9,harry potter and the prisoner of azkaban,"rowling, j.k.",1029
+10,angels and demons,"brown, dan",1030
+11,harry potter and the half-blood prince:children's edition,"rowling, j.k.",1031
+12,fifty shades darker,"james, e. l.",1032
+13,twilight,"meyer, stephenie",1033
+14,"girl with the dragon tattoo,the:millennium trilogy","larsson, stieg",1034
+15,fifty shades freed,"james, e. l.",1035
+16,"lost symbol,the","brown, dan",1036
+17,new moon,"meyer, stephenie",1037
+18,deception point,"brown, dan",1038
+19,eclipse,"meyer, stephenie",1039
+20,"lovely bones,the","sebold, alice",1040
+21,"curious incident of the dog in the night-time,the","haddon, mark",1041
+22,digital fortress,"brown, dan",1042
+23,"short history of nearly everything,a","bryson, bill",1043
+24,"girl who played with fire,the:millennium trilogy","larsson, stieg",1044
+25,breaking dawn,"meyer, stephenie",1045
+26,"very hungry caterpillar,the:the very hungry caterpillar","carle, eric",1046
+27,"gruffalo,the","donaldson, julia",1047
+28,jamie's 30-minute meals,"oliver, jamie",1048
+29,"kite runner,the","hosseini, khaled",1049
+30,one day,"nicholls, david",1050
+31,"thousand splendid suns,a","hosseini, khaled",1051
+32,"girl who kicked the hornets' nest,the:millennium trilogy","larsson, stieg",1052
+33,"time traveler's wife,the","niffenegger, audrey",1053
+34,atonement,"mcewan, ian",1054
+35,bridget jones's diary:a novel,"fielding, helen",1055
+36,"world according to clarkson,the","clarkson, jeremy",1056
+37,captain corelli's mandolin,"bernieres, louis de",1057
+38,"sound of laughter,the","kay, peter",1058
+39,life of pi,"martel, yann",1059
+40,billy connolly,"stephenson, pamela",1060
+41,"child called it,a","pelzer, dave",1061
+42,"gruffalo's child,the","donaldson, julia",1062
+43,angela's ashes:a memoir of a childhood,"mccourt, frank",1063
+44,birdsong,"faulks, sebastian",1064
+45,northern lights:his dark materials s.,"pullman, philip",1065
+46,labyrinth,"mosse, kate",1066
+47,harry potter and the half-blood prince,"rowling, j.k.",1067
+48,"help,the","stockett, kathryn",1068
+49,man and boy,"parsons, tony",1069
+50,memoirs of a geisha,"golden, arthur",1070
+51,"no.1 ladies' detective agency,the:no.1 ladies' detective agency s.","mccall smith, alexander",1071
+52,"island,the","hislop, victoria",1072
+53,"ps, i love you","ahern, cecelia",1073
+54,you are what you eat:the plan that will change your life,"mckeith, gillian",1074
+55,"shadow of the wind,the","zafon, carlos ruiz",1075
+56,"tales of beedle the bard,the","rowling, j.k.",1076
+57,"broker,the","grisham, john",1077
+58,"dr. atkins' new diet revolution:the no-hunger, luxurious weight loss p","atkins, robert c.",1078
+59,"subtle knife,the:his dark materials s.","pullman, philip",1079
+60,"eats, shoots and leaves:the zero tolerance approach to punctuation","truss, lynne",1080
+61,delia's how to cook:(bk.1),"smith, delia",1081
+62,chocolat,"harris, joanne",1082
+63,"boy in the striped pyjamas,the","boyne, john",1083
+64,my sister's keeper,"picoult, jodi",1084
+65,"amber spyglass,the:his dark materials s.","pullman, philip",1085
+66,to kill a mockingbird,"lee, harper",1086
+67,"men are from mars, women are from venus:a practical guide for improvin","gray, john",1087
+68,dear fatty,"french, dawn",1088
+69,"short history of tractors in ukrainian,a","lewycka, marina",1089
+70,hannibal,"harris, thomas",1090
+71,"lord of the rings,the","tolkien, j. r. r.",1091
+72,stupid white men:...and other sorry excuses for the state of the natio,"moore, michael",1092
+73,"interpretation of murder,the","rubenfeld, jed",1093
+74,sharon osbourne extreme:my autobiography,"osbourne, sharon",1094
+75,"alchemist,the:a fable about following your dream","coelho, paulo",1095
+76,at my mother's knee ...:and other low joints,"o'grady, paul",1096
+77,notes from a small island,"bryson, bill",1097
+78,"return of the naked chef,the","oliver, jamie",1098
+79,bridget jones: the edge of reason,"fielding, helen",1099
+80,jamie's italy,"oliver, jamie",1100
+81,i can make you thin,"mckenna, paul",1101
+82,down under,"bryson, bill",1102
+83,"summons,the","grisham, john",1103
+84,small island,"levy, andrea",1104
+85,nigella express,"lawson, nigella",1105
+86,brick lane,"ali, monica",1106
+87,"memory keeper's daughter,the","edwards, kim",1107
+88,room on the broom,"donaldson, julia",1108
+89,about a boy,"hornby, nick",1109
+90,my booky wook,"brand, russell",1110
+91,"god delusion,the","dawkins, richard",1111
+92,"""beano"" annual,the",0,1112
+93,white teeth,"smith, zadie",1113
+94,"house at riverton,the","morton, kate",1114
+95,"book thief,the","zusak, markus",1115
+96,nights of rain and stars,"binchy, maeve",1116
+97,"ghost,the","harris, robert",1117
+98,happy days with the naked chef,"oliver, jamie",1118
+99,"hunger games,the:hunger games trilogy","collins, suzanne",1119
+100,"lost boy,the:a foster child's search for the love of a family","pelzer, dave",1120
+101,jamie's ministry of food:anyone can learn to cook in 24 hours,"oliver, jamie",1121
+102,Beowulf,"Unknown, Seamus Heaney",1122
+103,Batman: Year One,"Frank Miller, David Mazzucchelli, Richmond Lewis, Dennis O'Neil",1123
+104,Go Set a Watchman,Harper Lee,1124
+105,When You Are Engulfed in Flames,David Sedaris,1125
+106,Daughter of Smoke & Bone,Laini Taylor,1126
+107,Red Queen,Victoria Aveyard,1127
+108,The Power of Habit,Charles Duhigg,1128
+109,Midnight in the Garden of Good and Evil,John Berendt,1129
+110,Hopeless,Colleen Hoover,1130
+111,A Little Princess,"Frances Hodgson Burnett, Nancy Bond",1131
+112,The Truth About Forever,Sarah Dessen,1132
+113,The horse and his boy,C.S. Lewis,1133
+114,Last Sacrifice,Richelle Mead,1134
+115,Little House on the Prairie,"Laura Ingalls Wilder, Garth Williams",1135
+116,The Velveteen Rabbit,"Margery Williams Bianco, William   Nicholson",1136
+117,Zen and the Art of Motorcycle Maintenance,Robert M. Pirsig,1137
+118,The War of the Worlds,"H.G. Wells, Arthur C. Clarke",1138
+119,Pretty Little Liars,Sara Shepard,1139
+120,Corduroy,Don Freeman,1140
+121,The Omnivore's Dilemma,Michael Pollan,1141
+122,Life After Life,Kate Atkinson,1142
+123,The Rescue,Nicholas Sparks,1143
+124,Needful Things,Stephen King,1144
+125,Voyager,Diana Gabaldon,1145
+126,,"Kenneth Branagh, William Shakespeare",1146
+127,Cujo,Stephen King,1147
+128,The Virgin Suicides,Jeffrey Eugenides,1148
+129,Dead to the World,Charlaine Harris,1149
+130,Tess of the d'Urbervilles: A Pure Woman Faithfully Presented,"Thomas Hardy, Tim Dolin, Margaret R. Higonnet",1150
+131,Madame Bovary,"Gustave Flaubert, Margaret Mauldon, Malcolm Bowie, Mark Overstall",1151
+132,The Phantom Tollbooth,"Norton Juster, Jules Feiffer",1152
+133,The Way of Kings,Brandon Sanderson,1153
+134,Club Dead,Charlaine Harris,1154
+135,It's Kind of a Funny Story,Ned Vizzini,1155
+136,,Brandon Sanderson,1156
+137,After You,Jojo Moyes,1157
+138,The Language of Flowers,Vanessa Diffenbaugh,1158
+139,Batman: The Dark Knight Returns,"Frank Miller, Klaus Janson, Lynn Varley",1159
+140,The Angel Experiment,James Patterson,1160
+141,High Fidelity,Nick Hornby,1161
+142,The Guardian,Nicholas Sparks,1162
+143,Oryx and Crake,Margaret Atwood,1163
+144,"Men Are from Mars, Women Are from Venus Book of Days: 365 Inspirations to Enrich Your Relationships",John Gray,1164
+145,Kitchen Confidential: Adventures in the Culinary Underbelly,Anthony Bourdain,1165
+146,Timeline,Michael Crichton,1166
+147,Candide,Voltaire,1167
+148,Tuck Everlasting,Natalie Babbitt,1168
+149,Christine,"Stephen King, Marie Milpois",1169
+150,Are You My Mother?,P.D. Eastman,1170
+151,The Story of Art,E.H. Gombrich,1171
+152,Scarlet,Marissa Meyer,1172
+153,"Rich Dad , Poor Dad",Robert T. Kiyosaki,1173
+154,Silence,Becca Fitzpatrick,1174
+155,The Magicians,Lev Grossman,1175
+156,ãƒ‡ã‚¹ãƒŽãƒ¼ãƒˆ #1 (Desu NÅto) Taikutsu (é€€å±ˆ),"Tsugumi Ohba, Takeshi Obata",1176
+157,A Great and Terrible Beauty,Libba Bray,1177
+158,Everything Is Illuminated,Jonathan Safran Foer,1178
+159,The Bourne Supremacy,Robert Ludlum,1179
+160,Easy,Tammara Webber,1180
+161,David Copperfield,"Charles Dickens, Jeremy Tambling",1181
+162,The Absolutely True Diary of a Part-Time Indian,"Sherman Alexie, Ellen Forney",1182
+163,ÐœÐ°ÑÑ‚ÐµÑ€ Ð¸ ÐœÐ°Ñ€Ð³Ð°Ñ€Ð¸Ñ‚Ð°,"Mikhail Bulgakov, Katherine Tiernan O'Connor, Diana Burgin, Ellendea Proffer",1183
+164,A Wizard of Earthsea,Ursula K. Le Guin,1184
+165,Because of Winn-Dixie,"Kate DiCamillo, Chris Sheban",1185
+166,A Separate Peace,John Knowles,1186
+167,The Rainmaker,John Grisham,1187
+168,Don Quijote de La Mancha,"Miguel de Cervantes Saavedra, Roberto GonzÃ¡lez EchevarrÃ­a, John Rutherford",1188
+169,Assassin's Apprentice,Robin Hobb,1189
+170,The Restaurant at the End of the Universe,Douglas Adams,1190
+171,Torment,Lauren Kate,1191
+172,The Tale of Peter Rabbit,Beatrix Potter,1192
+173,The Silver Chair,"C.S. Lewis, Pauline Baynes",1193
+174,The Hero of Ages,Brandon Sanderson,1194
+175,"Girl, Interrupted",Susanna Kaysen,1195
+176,"Are You There, Vodka? It's Me, Chelsea",Chelsea Handler,1196
+177,Jonathan Livingston Seagull,"Richard Bach, Russell Munson",1197
+178,City of Heavenly Fire,Cassandra Clare,1198
+179,Love You Forever,"Robert Munsch, Sheila McGraw",1199
+180,Cell,Stephen King,1200
+181,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Daniel James Brown,1201
+182,The Silmarillion,"J.R.R. Tolkien, Christopher Tolkien, Ted Nasmith",1202
+183,The Drawing of the Three,Stephen King,1203
+184,The Forgotten Garden,Kate Morton,1204
+185,Der ProzeÃŸ,"Franz Kafka, Edwin Muir, Willa Muir, Max Brod",1205
+186,This Lullaby,Sarah Dessen,1206
+187,Plain Truth,Jodi Picoult,1207
+188,Orange Is the New Black: My Year in a Women's Prison,Piper Kerman,1208
+189,The Hound of the Baskervilles,"Arthur Conan Doyle, Anne Perry",1209
+190,"Thinking, Fast and Slow",Daniel Kahneman,1210
+191,The Mists of Avalon,Marion Zimmer Bradley,1211
+192,"Are You There God? It's Me, Margaret",Judy Blume,1212
+193,Nights in Rodanthe,Nicholas Sparks,1213
+194,Mr. Mercedes,Stephen King,1214
+195,All Together Dead,Charlaine Harris,1215
+196,Midwives,Chris Bohjalian,1216
+197,The Polar Express,Chris Van Allsburg,1217
+198,The True Story of the Three Little Pigs,"Jon Scieszka, Lane Smith",1218
+199,Patriot Games,Tom Clancy,1219
+200,Veronika decide morrer,"Paulo Coelho, Margaret Jull Costa",1220
+201,"Lean In: Women, Work, and the Will to Lead","Sheryl Sandberg, Nell Scovell",1221
+202,Dead as a Doornail,Charlaine Harris,1222
+203,"Shatter Me (Shatter Me, #1)",Tahereh Mafi,1223
+204,Starship Troopers,Robert A. Heinlein,1224
+205,I've Got Your Number,Sophie Kinsella,1225
+206,Sofies Verden,"Jostein Gaarder, Paulette MÃ¸ller",1226
+207,,Mark Cotta Vaz,1227
+208,The Martian Chronicles,Ray Bradbury,1228
+209,A Visit From the Goon Squad,Jennifer Egan,1229
+210,Heidi,"Johanna Spyri, Angelo  Rinaldi, Beverly Cleary",1230
+211,Prey,Michael Crichton,1231
+212,The Last Battle,C.S. Lewis,1232
+213,World Without End,Ken Follett,1233
+214,Chosen: A House of Night Novel,"P.C. Cast, Kristin Cast",1234
+215,Slammed,Colleen Hoover,1235
+216,"Beastly (Beastly, #1, Kendra Chronicles, #1)",Alex Flinn,1236
+217,Tales of Caunterbury,"Geoffrey Chaucer, Nevill Coghill",1237
+218,Baby Proof,Emily Giffin,1238
+219,Inheritance,Christopher Paolini,1239
+220,ã„ã¡ãã‚…ã†ã¯ã¡ã‚ˆã‚“ [Ichi-KyÅ«-Hachi-Yon],"Haruki Murakami, Jay Rubin, Philip Gabriel",1240
+221,Uncle Tom's Cabin or Life Among the Lowly,Harriet Beecher Stowe,1241
+222,Le FantÃ´me de l'OpÃ©ra,"Gaston Leroux, Alexander Teixeira de Mattos",1242
+223,"Definitely Dead (Sookie Stackhouse, #6)",Charlaine Harris,1243
+224,Ensaio Sobre a Cegueira,"JosÃ© Saramago, Giovanni Pontiero",1244
+225,Freedom,Jonathan Franzen,1245
+226,Crossed,Ally Condie,1246
+227,"I'd Tell You I Love You, But Then I'd Have to Kill You",Ally Carter,1247
+228,The White Tiger,Aravind Adiga,1248
+229,The Corrections,Jonathan Franzen,1249
+230,Dreams from My Father,Barack Obama,1250
+231,Congo,Michael Crichton,1251
+232,"Alexander and the Terrible, Horrible, No Good, Very Bad Day","Judith Viorst, Ray Cruz",1252
+233,Interpreter of Maladies,Jhumpa Lahiri,1253
+234,A People's History of the United States: 1492 to Present,Howard Zinn,1254
+235,Breakfast at Tiffany's,Truman Capote,1255
+236,The Passage,Justin Cronin,1256
+237,Anansi Boys,Neil Gaiman,1257
+238,Along for the Ride,Sarah Dessen,1258
+239,Everything I Never Told You,Celeste Ng,1259
+240,La casa de los espÃ­ritus,"Isabel Allende, Magda Bogin",1260
+241,The Dead Zone,Stephen King,1261
+242,The Mysterious Affair at Styles,"Agatha Christie, Î¡Î¿Î¶Î¯Ï„Î± Î£ÏŽÎºÎ¿Ï…",1262
+243,Murder in the Calais Coach,Agatha Christie,1263
+244,Americanah,Chimamanda Ngozi Adichie,1264
+245,Suzanne's Diary for Nicholas,James Patterson,1265
+246,Firestarter,Stephen King,1266
+247,Entwined with You,Sylvia Day,1267
+248,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",Christopher McDougall,1268
+249,The Storied Life of A.J. Fikry,Gabrielle Zevin,1269
+250,Mad About Madeline,Ludwig Bemelmans,1270
+251,Think and Grow Rich,Napoleon Hill,1271
+252,Little House In The Big Woods,"Laura Ingalls Wilder, Garth Williams",1272
+253,Jonathan Strange & Mr Norrell,Susanna Clarke,1273
+254,A Bend in the Road,Nicholas Sparks,1274
+255,The House of Hades,Rick Riordan,1275
+256,Gone,Michael  Grant,1276
+257,The Wedding,Nicholas Sparks,1277
+258,1776,David McCullough,1278
+259,Under the Banner of Heaven: A Story of Violent Faith,Jon Krakauer,1279
+260,Beautiful Ruins,Jess Walter,1280
+261,The Audacity of Hope: Thoughts on Reclaiming the American Dream,Barack Obama,1281
+262,On Writing: A Memoir of the Craft,Stephen King,1282
+263,Firefly Lane,Kristin Hannah,1283
+264,Sphere,Michael Crichton,1284
+265,Love the One You're With,Emily Giffin,1285
+266,The Silkworm,"Robert Galbraith, J.K. Rowling",1286
+267,The Vampire Lestat,Anne Rice,1287
+268,State of Wonder,Ann Patchett,1288
+269,The Silver Linings Playbook,Matthew Quick,1289
+270,Vingt Mille Lieues Sous les Mers,"Jules Verne, Anthony Bonner",1290
+271,The Constant Princess,Philippa Gregory,1291
+272,Mrs Dalloway,"Virginia Woolf, Maureen Howard",1292
+273,HundraÃ¥ringen som klev ut genom fÃ¶nstret och fÃ¶rsvann,"Jonas Jonasson, Rod Bradbury",1293
+274,Bag of Bones,Stephen King,1294
+275,The Cider House Rules,John Irving,1295
+276,Thinner,"Richard Bachman, Stephen King",1296
+277,Le tour du monde en quatre-vingts jours,"Jules Verne, Michael Glencross, Brian W. Aldiss",1297
+278,Walk Two Moons,Sharon Creech,1298
+279,Onze minutos,"Paulo Coelho, Margaret Jull Costa",1299
+280,Nine Stories,J.D. Salinger,1300
+281,"Julie & Julia: 365 Days, 524 Recipes, 1 Tiny Apartment Kitchen",Julie Powell,1301
+282,Unwind,Neal Shusterman,1302
+283,"Drums of Autumn (Outlander, #4)",Diana Gabaldon,1303
+284,Prodigy,Marie Lu,1304
+285,The Tragedie of King Lear,William Shakespeare,1305
+286,Death of a Salesman,Arthur Miller,1306
+287,The Choice,Nicholas Sparks,1307
+288,,Kate Egan,1308
+289,The Sound and the Fury,William Faulkner,1309
+290,A New Earth: Awakening to Your Life's Purpose,Eckhart Tolle,1310
+291,BLEACHâ€•ãƒ–ãƒªãƒ¼ãƒâ€•ã€€1,Tite Kubo,1311
+292,,Allie Brosh,1312
+293,The Shadow Rising,Robert Jordan,1313
+294,Shantaram,Gregory David Roberts,1314
+295,From Dead to Worse,Charlaine Harris,1315
+296,The Waste Lands,"Stephen King, Ned Dameron",1316
+297,The Bone Collector,Jeffery Deaver,1317
+298,Der Vorleser,"Bernhard Schlink, Carol Brown Janeway",1318
+299,"Brown Bear, Brown Bear, What Do You See?","Bill Martin Jr., Eric Carle",1319
+300,Hyperion,Dan Simmons,1320
+301,The Pearl of the World,John Steinbeck,1321
+302,The Exorcist,William Peter Blatty,1322
+303,The Short Second Life of Bree Tanner,Stephenie Meyer,1323
+304,Snow Falling on Cedars,David Guterson,1324
+305,Roots,Alex Haley,1325
+306,Batman: The Killing Joke,"Alan Moore, Brian Bolland, Tim Sale",1326
+307,Invisible Man,Ralph Ellison,1327
+308,A Long Way Gone. Memoirs of a Boy Soldier,Ishmael Beah,1328
+309,Mrs. Frisby and the Rats of NIMH,Robert C. O'Brien,1329
+310,Different Seasons,Stephen King,1330
+311,The Little House Collection,"Laura Ingalls Wilder, Garth Williams",1331
+312,The Girls' Guide to Hunting and Fishing,Melissa Bank,1332
+313,Wool Omnibus,Hugh Howey,1333
+314,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",Christopher Moore,1334
+315,The Power of Now,Eckhart Tolle,1335
+316,Let's Pretend This Never Happened (A Mostly True Memoir),Jenny  Lawson,1336
+317,The Lies of Locke Lamora,Scott Lynch,1337
+318,Sabriel,Garth Nix,1338
+319,Dead and Gone,Charlaine Harris,1339
+320,The Storyteller,Jodi Picoult,1340
+321,Obsidian,Jennifer L. Armentrout,1341
+322,"Life, the Universe and Everything",Douglas Adams,1342
+323,Crown of Midnight,Sarah J. Maas,1343
+324,"Scott Pilgrim, Volume 1: Scott Pilgrim's Precious Little Life",Bryan Lee O'Malley,1344
+325,Half Broke Horses: A True Life Novel,Jeannette Walls,1345
+326,Mort,Terry Pratchett,1346
+327,"The Iron King (The Iron Fey, #1)",Julie Kagawa,1347
+328,Lonesome Dove,Larry McMurtry,1348
+329,Stiff: The Curious Lives of Human Cadavers,Mary Roach,1349
+330,Bloodlines,Richelle Mead,1350
+331,Ender's Shadow,Orson Scott Card,1351
+332,Twenties Girl,Sophie Kinsella,1352
+333,Schindler's Ark,Thomas Keneally,1353
+334,The Bluest Eye,Toni Morrison,1354
+335,The White Queen,Philippa Gregory,1355
+336,The Autobiography of Malcolm X,"Malcolm X, Alex Haley",1356
+337,Preludes & Nocturnes,"Neil Gaiman, Sam Kieth, Mike Dringenberg, Malcolm Jones III, Todd Klein, Karen  Berger",1357
+338,Seabiscuit,Laura Hillenbrand,1358
+339,Shutter Island,Dennis Lehane,1359
+340,The Complete Sherlock Holmes,Arthur Conan Doyle,1360
+341,The Tragedy of Julius Caesar,"William Shakespeare, Roma Gill",1361
+342,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",Erik Larson,1362
+343,Î Î¿Î»Î¹Ï„ÎµÎ¯Î±,"Plato, Desmond Lee",1363
+344,The Taming of the Shrew,William Shakespeare,1364
+345,Cress,Marissa Meyer,1365
+346,Just Kids,Patti Smith,1366
+347,,Phaidon Press,1367
+348,Jemima J,Jane Green,1368
+349,Notre-Dame de Paris,"Victor Hugo, Walter J. Cobb",1369
+350,A Fine Balance,Rohinton Mistry,1370
+351,Calvin and Hobbes,"Bill Watterson, G.B. Trudeau",1371
+352,Specials,Scott Westerfeld,1372
+353,The Awakening,Kate Chopin,1373
+354,Hunted,"P.C. Cast, Kristin Cast",1374
+355,For One More Day,Mitch Albom,1375
+356,Clear and Present Danger,Tom Clancy,1376
+357,Falling Up,Shel Silverstein,1377
+358,Sh*t My Dad Says,Justin Halpern,1378
+359,Trainspotting,"Irvine Welsh, Eric Lindor Fall",1379
+360,Foundation and Empire,Isaac Asimov,1380
+361,"The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book",Miguel Ruiz,1381
+362,House Rules,Jodi Picoult,1382
+363,BrÃ¼der Grimm: Kinder- und HausmÃ¤rchen,"Jacob Grimm, Wilhelm Grimm, Josef Scharl, Padraic Colum, Joseph Campbell, Margaret Raine Hunt, James Stern",1383
+364,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,1384
+365,Doctor Sleep,Stephen King,1385
+366,On Dublin Street,Samantha Young,1386
+367,Crazy Love: Overwhelmed by a Relentless God,"Francis Chan, Danae Yankoski, Chris Tomlin",1387
+368,"One Fish, Two Fish, Red Fish, Blue Fish",Dr. Seuss,1388
+369,Watchers,Dean Koontz,1389
+370,The Story of My Life,Helen Keller,1390
+371,This Is Where I Leave You,Jonathan Tropper,1391
+372,Abraham Lincoln: Vampire Hunter,Seth Grahame-Smith,1392
+373,ãƒ•ãƒ«ãƒ¼ãƒ„ãƒã‚¹ã‚±ãƒƒãƒˆ 1,"Natsuki Takaya, Alethea Nibley, Athena Nibley",1393
+374,The Tempest,William Shakespeare,1394
+375,Burned: A House of Night Novel,"P.C. Cast, Kristin Cast",1395
+376,Wizard and Glass,"Stephen King, Dave McKean",1396
+377,The Circle,Dave Eggers,1397
+378,The Invention of Hugo Cabret,Brian Selznick,1398
+379,Brave New World/Brave New World Revisited,"Aldous Huxley, Christopher Hitchens",1399
+380,æ¡œè˜­é«˜æ ¡ãƒ›ã‚¹ãƒˆéƒ¨ 1,Bisco Hatori,1400
+381,The Good Girl,Mary Kubica,1401
+382,"Fallen Too Far (Too Far, #1)",Abbi Glines,1402
+383,Landline,Rainbow Rowell,1403
+384,Tempted,"P.C. Cast, Kristin Cast",1404
+385,No Country for Old Men,Cormac McCarthy,1405
+386,Wolf Hall,Hilary Mantel,1406
+387,Howl's Moving Castle,Diana Wynne Jones,1407
+388,Dreamcatcher,"Stephen King, William Olivier Desmond",1408
+389,Walden; or Life in the Woods,Henry David Thoreau,1409
+390,The Remains of the Day,Kazuo Ishiguro,1410
+391,The Best of Me,Nicholas Sparks,1411
+392,The Sense of an Ending,Julian Barnes,1412
+393,A is for Alibi,Sue Grafton,1413
+394,ÎŸá¼°Î´Î¯Ï€Î¿Ï…Ï‚ Î¤ÏÏÎ±Î½Î½Î¿Ï‚,"Sophocles, J.E. Thomas",1414
+395,Shanghai Girls,Lisa See,1415
+396,The Wind in the Willows,"Kenneth Grahame, Gillian Avery",1416
+397,To All the Boys I've Loved Before,Jenny Han,1417
+398,Persepolis,"Marjane Satrapi, Mattias Ripa",1418
+399,A Room with a View,E.M. Forster,1419
+400,The DUFF: Designated Ugly Fat Friend,Kody Keplinger,1420
+401,Lock and Key,Sarah Dessen,1421
+402,Naked in Death,J.D. Robb,1422
+403,The Chamber,John Grisham,1423
+404,Midnight Sun (Partial Draft),Stephenie Meyer,1424
+405,NARUTO -ãƒŠãƒ«ãƒˆ- å·»ãƒŽä¸€,"Masashi Kishimoto, Katy Bridges",1425
+406,The Unlikely Pilgrimage of Harold Fry,Rachel Joyce,1426
+407,Every Day,David Levithan,1427
+408,Xenocide,Orson Scott Card,1428
+409,The Merchant of Venice,"William Shakespeare, Robert          Jackson, Barbara A. Mowat, Paul Werstine",1429
+410,ShÅgun,James Clavell,1430
+411,"Lover Awakened (Black Dagger Brotherhood, #3)",J.R. Ward,1431
+412,A Court of Thorns and Roses,Sarah J. Maas,1432
+413,,E.L. James,1433
+414,Chicka Chicka Boom Boom,"Bill Martin Jr., John Archambault, Lois Ehlert",1434
+415,Smile,Raina Telgemeier,1435
+416,Animal Farm & 1984,"George Orwell, Christopher Hitchens",1436
+417,The Deep End of the Ocean,Jacquelyn Mitchard,1437
+418,The Bonesetter's Daughter,Amy Tan,1438
+419,"Angus, Thongs and Full-Frontal Snogging",Louise Rennison,1439
+420,Mr. Penumbra's 24-Hour Bookstore,Robin Sloan,1440
+421,Flowers in the Attic,V.C. Andrews,1441
+422,When Breath Becomes Air,"Paul Kalanithi, Abraham Verghese",1442
+423,Maniac Magee,Jerry Spinelli,1443
+424,Invisible Monsters,Chuck Palahniuk,1444
+425,"Twelfth Night; or, What You Will",William Shakespeare,1445
+426,Gathering Blue,Lois Lowry,1446
+427,The Westing Game,Ellen Raskin,1447
+428,Red Rising,Pierce Brown,1448
+429,The Way of Shadows,Brent Weeks,1449
+430,The Bean Trees,Barbara Kingsolver,1450
+431,Walking Disaster,Jamie McGuire,1451
+432,Words of Radiance,Brandon Sanderson,1452
+433,Guess How Much I Love You,"Sam McBratney, Anita Jeram",1453
+434,The Fiery Cross,Diana Gabaldon,1454
+435,Night Shift,"Stephen King, John D. MacDonald",1455
+436,Jaws,Peter Benchley,1456
+437,The History of Love,Nicole Krauss,1457
+438,Pippi LÃ¥ngstrump,"Astrid Lindgren, Lauren Child, Florence Lamborn, Nancy Seligsohn",1458
+439,L'Ã©lÃ©gance du hÃ©risson,"Muriel Barbery, Alison Anderson",1459
+440,Team of Rivals: The Political Genius of Abraham Lincoln,"Doris Kearns Goodwin, Suzanne Toren",1460
+441,Dead in the Family,Charlaine Harris,1461
+442,La peste,"Albert Camus, Stuart Gilbert",1462
+443,The Reptile Room,"Lemony Snicket, Brett Helquist",1463
+444,Brain on Fire,Susannah Cahalan,1464
+445,Wicked Lovely,Melissa Marr,1465
+446,Curious George,H.A. Rey,1466
+447,Die unendliche Geschichte,"Michael Ende, Ralph Manheim, Roswitha Quadflieg",1467
+448,A Beautiful Mind,Sylvia Nasar,1468
+449,The Jungle,"Upton Sinclair, Earl Lee, Kathleen DeGrave",1469
+450,The Summoning,Kelley Armstrong,1470
+451,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,Oliver Sacks,1471
+452,Storm Island,Ken Follett,1472
+453,The Blind Assassin,Margaret Atwood,1473
+454,Hollow City,Ransom Riggs,1474
+455,House of Sand and Fog,Andre Dubus III,1475
+456,The Girl with All the Gifts,M.R. Carey,1476
+457,As I Lay Dying,William Faulkner,1477
+458,Harold and the Purple Crayon,Crockett Johnson,1478
+459,"Lover Eternal (Black Dagger Brotherhood, #2)",J.R. Ward,1479
+460,,Isaac Asimov,1480
+461,Fool Moon,Jim Butcher,1481
+462,David and Goliath,Malcolm Gladwell,1482
+463,é‹¼ã®éŒ¬é‡‘è¡“å¸« 1,"Hiromu Arakawa, Akira Watanabe",1483
+464,Guards! Guards!,Terry Pratchett,1484
+465,The Year of Magical Thinking,Joan Didion,1485
+466,We Need to Talk About Kevin,Lionel Shriver,1486
+467,Rendezvous with Rama,Arthur C. Clarke,1487
+468,The Queen of the Damned,Anne Rice,1488
+469,The Age of Innocence,"Edith Wharton, Maureen Howard",1489
+470,The Selfish Gene,Richard Dawkins,1490
+471,Year of Wonders: A Novel of the Plague,Geraldine Brooks,1491
+472,The Black Echo,Michael Connelly,1492
+473,Anthem,Ayn Rand,1493
+474,Gabriel's Inferno,Sylvain Reynard,1494
+475,Cloudy with a Chance of Meatballs,"Judi Barrett, Ron Barrett",1495
+476,Major Pettigrew's Last Stand,Helen Simonson,1496
+477,Vision in White,Nora Roberts,1497
+478,The Tenth Circle,Jodi Picoult,1498
+479,The Throne of Fire,Rick Riordan,1499
+480,Old Man's War,John Scalzi,1500
+481,Gerald's Game,Stephen King,1501
+482,Two for the Dough,Janet Evanovich,1502
+483,The Joy of Cooking,"Irma S. Rombauer, Marion Rombauer Becker, Ethan Becker",1503
+484,The Forever War,Joe Haldeman,1504
+485,Insomnia,"Stephen King, Bettina Blanch Tyroller",1505
+486,Reading Lolita in Tehran: A Memoir in Books,Azar Nafisi,1506
+487,The Blade Itself,Joe Abercrombie,1507
+488,The Arctic Incident,Eoin Colfer,1508
+489,The Shipping News,Annie Proulx,1509
+490,äººç”ŸãŒã¨ãã‚ãç‰‡ã¥ã‘ã®é­”æ³•,"Marie KondÅ, Cathy Hirano",1510
+491,All the Bright Places,"Jennifer Niven, ÙØ±Ø§Ù†Ú© Ù…Ø¹Ù†ÙˆÛŒ",1511
+492,DÃ©jÃ  Dead,Kathy Reichs,1512
+493,The Alchemyst: The Secrets of The Immortal Nicholas Flamel,Michael Scott,1513
+494,The Marriage Plot,Jeffrey Eugenides,1514
+495,Hija de la fortuna,"Isabel Allende, Margaret Sayers Peden",1515
+496,Luckiest Girl Alive,Jessica Knoll,1516
+497,"Crank (Crank, #1)",Ellen Hopkins,1517
+498,The Raven Boys,Maggie Stiefvater,1518
+499,I Am Legend and Other Stories,Richard Matheson,1519
+500,Olive Kitteridge,Elizabeth Strout,1520
+501,Not that Kind of Girl,"Lena Dunham, Joana Avillez",1521
+502,Good to Great: Why Some Companies Make the Leap... and Others Don't,James C. Collins,1522
+503,Fire,Kristin Cashore,1523
+504,En attendant Godot,Samuel Beckett,1524
+505,White Fang,Jack London,1525
+506,Wolves of the Calla,"Stephen King, Bernie Wrightson",1526
+507,His Dark Materials,Philip Pullman,1527
+508,The Edge of Never,J.A. Redmerski,1528
+509,Reconstructing Amelia,Kimberly McCreight,1529
+510,The One Plus One,Jojo Moyes,1530
+511,The Hours,Michael Cunningham,1531
+512,Wallbanger,Alice Clayton,1532
+513,Holidays on Ice,David Sedaris,1533
+514,Desperation,Stephen King,1534
+515,Passion,Lauren Kate,1535
+516,The Kill Order,James Dashner,1536
+517,Angelfall,Susan Ee,1537
+518,Empire Falls,Richard Russo,1538
+519,The Fires of Heaven,Robert Jordan,1539
+520,I'll Give You the Sun,Jandy Nelson,1540
+521,Survivor,Chuck Palahniuk,1541
+522,Shopaholic and Baby,Sophie Kinsella,1542
+523,The Dark Tower,Stephen King,1543
+524,Twilight Director's Notebook,Catherine Hardwicke,1544
+525,Shopaholic Abroad,Sophie Kinsella,1545
+526,"Surely You're Joking, Mr. Feynman! Adventures of a Curious Character",Richard Feynman,1546
+527,Linger,Maggie Stiefvater,1547
+528,The Complete Anne of Green Gables Boxed Set,L.M. Montgomery,1548
+529,A Portrait of the Artist as a Young Man,"James Joyce, Seamus Deane",1549
+530,The Gathering Storm,"Robert Jordan, Brandon Sanderson",1550
+531,Middlemarch,"George Eliot, Michel Faber",1551
+532,Point of Retreat,Colleen Hoover,1552
+533,The Partner,John Grisham,1553
+534,The Hobbit and The Lord of the Rings,J.R.R. Tolkien,1554
+535,Thoughtless,S.C. Stephens,1555
+536,Presumed Innocent,Scott Turow,1556
+537,The Dark Half,Stephen King,1557
+538,Cleopatra: A Life,Stacy Schiff,1558
+539,The World Is Flat: A Brief History of the Twenty-first Century,Thomas L. Friedman,1559
+540,Steelheart,Brandon Sanderson,1560
+541,,"Marcus Pfister, J. Alison James",1561
+542,Voyage au centre de la Terre,Jules Verne,1562
+543,The Happiness Project,Gretchen Rubin,1563
+544,The Man in the High Castle,Philip K. Dick,1564
+545,Helter Skelter: The True Story of The Manson Murders,"Vincent Bugliosi, Curt Gentry",1565
+546,,"Robert Kapilow, Dr. Seuss",1566
+547,Inferno,"Dante Alighieri, Anthony M. Esolen",1567
+548,Shadow of Night,Deborah Harkness,1568
+549,Leaving Time,Jodi Picoult,1569
+550,Moon Called,Patricia Briggs,1570
+551,Blue Bloods,Melissa de la Cruz,1571
+552,The Alienist,Caleb Carr,1572
+553,Between the World and Me,Ta-Nehisi Coates,1573
+554,Paradise Lost,"John Milton, John      Leonard",1574
+555,The Big Short: Inside the Doomsday Machine,Michael   Lewis,1575
+556,The Girl Who Loved Tom Gordon,Stephen King,1576
+557,A Monster Calls,"Patrick Ness, Jim Kay, Siobhan Dowd",1577
+558,Towers of Midnight,"Robert Jordan, Brandon Sanderson",1578
+559,The Day of the Jackal,Frederick Forsyth,1579
+560,Rework,"Jason Fried, David Heinemeier Hansson",1580
+561,Attachments,Rainbow Rowell,1581
+562,The Twilight Saga,"Stephenie Meyer, Ilyana Kadushin, Matt Walters",1582
+563,Tell the Wolves I'm Home,Carol Rifka Brunt,1583
+564,All Creatures Great And Small,James Herriot,1584
+565,The Unbecoming of Mara Dyer,Michelle Hodkin,1585
+566,Three to Get Deadly,Janet Evanovich,1586
+567,The Scarlet Pimpernel,Emmuska Orczy,1587
+568,The Monster at the End of This Book,"Jon Stone, Michael J. Smollin",1588
+569,Tales of a Fourth Grade Nothing,Judy Blume,1589
+570,Shadow and Bone,Leigh Bardugo,1590
+571,Het diner,"Herman Koch, Sam Garrett",1591
+572,Champion,Marie Lu,1592
+573,Contact,Carl Sagan,1593
+574,Lola and the Boy Next Door,Stephanie Perkins,1594
+575,American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History,"Chris Kyle, Scott McEwen, Jim DeFelice",1595
+576,My Horizontal Life: A Collection of One-Night Stands,Chelsea Handler,1596
+577,The Power of Six,Pittacus Lore,1597
+578,The Interestings,Meg Wolitzer,1598
+579,The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury,Bill Watterson,1599
+580,People of the Book,Geraldine Brooks,1600
+581,The Secret Keeper,Kate Morton,1601
+582,Better Homes & Gardens New Cook Book,Better Homes and Gardens,1602
+583,"So Long, and Thanks for All the Fish",Douglas Adams,1603
+584,Der Steppenwolf: ErzÃ¤hlung,"Hermann Hesse, Basil Creighton",1604
+585,The Surgeon,Tess Gerritsen,1605
+586,The Girl You Left Behind,Jojo Moyes,1606
+587,Royal Assassin,Robin Hobb,1607
+588,Childhood's End,Arthur C. Clarke,1608
+589,The Tale of Despereaux,"Kate DiCamillo, Timothy Basil Ering",1609
+590,"Animal, Vegetable, Miracle: A Year of Food Life","Barbara Kingsolver, Steven L. Hopp, Camille Kingsolver, Richard A. Houser",1610
+591,Heir of Fire,Sarah J. Maas,1611
+592,,Robert Jordan,1612
+593,The Sweetness at the Bottom of the Pie,Alan Bradley,1613
+594,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,Donald Miller,1614
+595,A Breath of Snow and Ashes,Diana Gabaldon,1615
+596,The Blood of Olympus,Rick Riordan,1616
+597,Truly Madly Guilty,Liane Moriarty,1617
+598,"Saga, Volume One","Brian K. Vaughan, Fiona Staples",1618
+599,The Art of Fielding,Chad Harbach,1619
+600,A Moveable Feast,Ernest Hemingway,1620
+601,Fablehaven,Brandon Mull,1621
+602,The Wide Window,"Lemony Snicket, Brett Helquist",1622
+603,Grave Peril,Jim Butcher,1623
+604,Einstein. His Life and Universe,Walter Isaacson,1624
+605,Effortless,S.C. Stephens,1625
+606,The Street Lawyer,John Grisham,1626
+607,"Roll of Thunder, Hear My Cry",Mildred D. Taylor,1627
+608,Pride and Prejudice and Zombies,"Seth Grahame-Smith, Jane Austen",1628
+609,Lets Explore Diabetes with Owls,David Sedaris,1629
+610,Ð˜Ð´Ð¸Ð¾Ñ‚,"Fyodor Dostoyevsky, Constance Garnett, Alan Myers, Joseph Frank, Anna Brailovsky",1630
+611,Dirk Gently's Holistic Detective Agency,Douglas Adams,1631
+612,Rodrick Rules,Jeff Kinney,1632
+613,Why Not Me?,Mindy Kaling,1633
+614,Four: A Divergent Collection,Veronica Roth,1634
+615,Modern Romance,"Aziz Ansari, Eric Klinenberg",1635
+616,The One and Only Ivan,"Katherine Applegate, Patricia Castelao",1636
+617,The Perfect Storm: A True Story of Men Against the Sea,Sebastian Junger,1637
+618,Elantris,Brandon Sanderson,1638
+619,The Knife of Never Letting Go,Patrick Ness,1639
+620,One Thousand White Women: The Journals of May Dodd,Jim Fergus,1640
+621,Handle with Care,Jodi Picoult,1641
+622,Song of Susannah,"Stephen King, Darrel Anderson",1642
+623,Reached,Ally Condie,1643
+624,Midnight's Children,Salman Rushdie,1644
+625,The Zombie Survival Guide: Complete Protection from the Living Dead,Max Brooks,1645
+626,The Testament,John Grisham,1646
+627,Murder at the Vicarage,Agatha Christie,1647
+628,Among the Hidden,Margaret Peterson Haddix,1648
+629,In Defense of Food: An Eater's Manifesto,Michael Pollan,1649
+630,The Witch of Blackbird Pond,Elizabeth George Speare,1650
+631,The Heir,Kiera Cass,1651
+632,Shopaholic Ties the Knot,Sophie Kinsella,1652
+633,The Woman in White,"Wilkie Collins, Matthew Sweet",1653
+634,Career of Evil,"Robert Galbraith, J.K. Rowling",1654
+635,The Summer I Turned Pretty,Jenny Han,1655
+636,Four to Score,Janet Evanovich,1656
+637,The Color of Water: A Black Man's Tribute to His White Mother,James McBride,1657
+638,"SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance","Steven D. Levitt, Stephen J. Dubner",1658
+639,Darkfever,Karen Marie Moning,1659
+640,Stone of Tears,Terry Goodkind,1660
+641,Heart of the Matter,Emily Giffin,1661
+642,Vanity Fair: A Novel Without a Hero,"William Makepeace Thackeray, John Carey",1662
+643,The Sirens of Titan,Kurt Vonnegut Jr.,1663
+644,Dolores Claiborne,"Stephen King, Dominique Dill",1664
+645,The Nest,Cynthia D'Aprix Sweeney,1665
+646,"Fables, Volume 1: Legends in Exile","Bill Willingham, Lan Medina, Steve Leialoha, Craig Hamilton, James Jean",1666
+647,Getting Things Done: How To Achieve Stress-free Productivity,David    Allen,1667
+648,The Celestine Prophecy,James Redfield,1668
+649,My Life Next Door,Huntley Fitzpatrick,1669
+650,Winter of the World,Ken Follett,1670
+651,"è‰²å½©ã‚’æŒãŸãªã„å¤šå´Žã¤ãã‚‹ã¨ã€å½¼ã®å·¡ç¤¼ã®å¹´ [Shikisai o motanai Tazaki Tsukuru to, kare no junrei no toshi]","Haruki Murakami, Philip Gabriel",1671
+652,Lucky,Alice Sebold,1672
+653,To The Lighthouse,Virginia Woolf,1673
+654,Five Point Someone: What Not to Do at IIT,Chetan Bhagat,1674
+655,Guilty Pleasures,Laurell K. Hamilton,1675
+656,The Messenger,Markus Zusak,1676
+657,Far from the Madding Crowd,"Thomas Hardy, Rosemarie Morgan, Shannon Russell",1677
+658,Equal Rites,Terry Pratchett,1678
+659,House of Leaves,Mark Z. Danielewski,1679
+660,Cruel & Unusual,Patricia Cornwell,1680
+661,Sycamore Row,John Grisham,1681
+662,Awakened,"P.C. Cast, Kristin Cast",1682
+663,My Ãntonia,Willa Cather,1683
+664,Life As We Knew It,Susan Beth Pfeffer,1684
+665,America (The Book): A Citizen's Guide to Democracy Inaction,"Jon Stewart, Ben Karlin, David Javerbaum, Rich Bloomquist, Steve Bodow, Tim Carvell, Eric Drysdale, J.R. Havlan, Scott Jacobson, Tom Johnson, Rob Kutner, Chris Regan, Jason Reich, Jason Ross, Stephen Colbert, Samantha Bee, Rob Corddry, Brendan Hay, Ed Helms",1685
+666,90 Minutes in Heaven,"Don Piper, Cecil Murphey",1686
+667,The Longest Ride,Nicholas Sparks,1687
+668,é“å¾·ç¶“ [dÃ o dÃ© jÄ«ng],"Lao Tzu, Gia-Fu Feng, Jane English, Chungliang Al Huang, Rowena Pattee Kryder, Toinette Lippe",1688
+669,Kane and Abel,Jeffrey Archer,1689
+670,Change of Heart,Jodi Picoult,1690
+671,Dry: A Memoir,Augusten Burroughs,1691
+672,Sam's Letters To Jennifer,James Patterson,1692
+673,Grey,E.L. James,1693
+674,Dune Messiah,Frank Herbert,1694
+675,The Great Divorce,C.S. Lewis,1695
+676,Little Earthquakes,Jennifer Weiner,1696
+677,Eventyr og historier,"Hans Christian Andersen, Lily Owens, Arthur Rackham, Hans Richter",1697
+678,New Moon: The Complete Illustrated Movie Companion,Mark Cotta Vaz,1698
+679,Maybe Someday,Colleen Hoover,1699
+680,Mr Maybe,Jane Green,1700
+681,Anne of the Island,L.M. Montgomery,1701
+682,Also sprach Zarathustra,"Friedrich Nietzsche, Walter Kaufmann",1702
+683,North and South,"Elizabeth Gaskell, Alan Shelston",1703
+684,A Stolen Life,Jaycee Dugard,1704
+685,The Immortals of Meluha,Amish Tripathi,1705
+686,The Lost World,Michael Crichton,1706
+687,Requiem,Lauren Oliver,1707
+688,A Crown of Swords,Robert Jordan,1708
+689,Aesopica,"Aesop, Laura Harris, Laura Gibbs",1709
+690,Blood Meridian: Or the Evening Redness in the West,Cormac McCarthy,1710
+691,Finale,Becca Fitzpatrick,1711
+692,Skeleton Crew,Stephen King,1712
+693,Lullaby,Chuck Palahniuk,1713
+694,Two States,Chetan Bhagat,1714
+695,ãƒ´ã‚¡ãƒ³ãƒ‘ã‚¤ã‚¢é¨Žå£« 1,"Matsuri Hino, Tomo Kimura",1715
+696,Summer Knight,Jim Butcher,1716
+697,Dragonflight,"Anne McCaffrey, Teodor PanasiÅ„ski",1717
+698,"The History of the Hobbit, Part One: Mr. Baggins","John D. Rateliff, J.R.R. Tolkien",1718
+699,Ugly Love,Colleen Hoover,1719
+700,The Amityville Horror,Jay Anson,1720
+701,The English Patient,Michael Ondaatje,1721
+702,Gabriel's Rapture,Sylvain Reynard,1722
+703,Dubliners,"James Joyce, Jeri Johnson",1723
+704,Let the Great World Spin,Colum McCann,1724
+705,The Eternity Code,Eoin Colfer,1725
+706,Tell No One,Harlan Coben,1726
+707,The Tommyknockers,Stephen King,1727
+708,Hex Hall,Rachel Hawkins,1728
+709,Steal Like an Artist,Austin Kleon,1729
+710,Cryptonomicon,Neal Stephenson,1730
+711,Beautiful Bastard,Christina Lauren,1731
+712,Prodigal Summer,Barbara Kingsolver,1732
+713,We Were the Mulvaneys,Joyce Carol Oates,1733
+714,Understanding Comics: The Invisible Art,Scott McCloud,1734
+715,Beautiful Darkness,"Kami Garcia, Margaret Stohl",1735
+716,The Psychopath Test,Jon Ronson,1736
+717,Vanishing Acts,Jodi Picoult,1737
+718,Absolute Power,David Baldacci,1738
+719,Hot Six,Janet Evanovich,1739
+720,The Time Keeper,Mitch Albom,1740
+721,A Dirty Job,Christopher Moore,1741
+722,Moneyball: The Art of Winning an Unfair Game,Michael   Lewis,1742
+723,The Amulet of Samarkand,Jonathan Stroud,1743
+724,I Am America (And So Can You!),"Stephen Colbert, Richard Dahm, Paul Dinello, Allison Silverman, Michael Brumm, Eric Drydale, Rob Dubbin, Glenn Eichler, Peter Grosz, Peter Gwinn, Jay Katsir, Laura Krafft, Frank Lesser, Tom Purcell",1744
+725,The One Minute Manager,"Kenneth H. Blanchard, Spencer Johnson",1745
+726,Exodus,Leon Uris,1746
+727,Stones from the River,Ursula Hegi,1747
+728,The Big Sleep,Raymond Chandler,1748
+729,Cannery Row,John Steinbeck,1749
+730,Seriously...I'm Kidding,Ellen DeGeneres,1750
+731,The Miserable Mill,"Lemony Snicket, Brett Helquist",1751
+732,The Snow Child,Eowyn Ivey,1752
+733,Wait for You,"J. Lynn, Jennifer L. Armentrout",1753
+734,The Last Straw,Jeff Kinney,1754
+735,La Divina Commedia,"Dante Alighieri, Allen Mandelbaum, Eugenio Montale",1755
+736,The Tao of Pooh,"Benjamin Hoff, Ernest H. Shepard",1756
+737,Onyx,Jennifer L. Armentrout,1757
+738,"Unravel Me (Shatter Me, #2)",Tahereh Mafi,1758
+739,The Birth of Venus,Sarah Dunant,1759
+740,The Opal Deception,Eoin Colfer,1760
+741,Det som inte dÃ¶dar oss,"David Lagercrantz, Stieg Larsson, George Goulding",1761
+742,The Girls,Emma Cline,1762
+743,The Goose Girl,Shannon Hale,1763
+744,Mystic River,Dennis Lehane,1764
+745,Warm Bodies,Isaac Marion,1765
+746,The Prince and the Pauper,"Mark Twain, Everett H. Emerson",1766
+747,The Moon is a Harsh Mistress,Robert A. Heinlein,1767
+748,The Forty Rules of Love,"Elif Shafak, Ø¥Ù„ÙŠÙ Ø´Ø§ÙØ§Ù‚, Ø§Ø±Ø³Ù„Ø§Ù† ÙØµÛŒØ­ÛŒ, Ù…Ø­Ù…Ø¯ Ø¯Ø±ÙˆÙŠØ´",1768
+749,High Five,Janet Evanovich,1769
+750,Joyland,Stephen King,1770
+751,é€²æ’ƒã®å·¨äºº 1,"Hajime Isayama, Sheldon Drzka",1771
+752,Tender Is the Night,F. Scott Fitzgerald,1772
+753,Cold Sassy Tree,Olive Ann Burns,1773
+754,The Glass Menagerie,Tennessee Williams,1774
+755,L'amica geniale,"Elena Ferrante, Ann Goldstein",1775
+756,"The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich",Timothy Ferriss,1776
+757,The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams & Reaching Your Destiny,Robin S. Sharma,1777
+758,Rules of Civility,Amor Towles,1778
+759,Ringworld,Larry Niven,1779
+760,Between Shades of Gray,Ruta Sepetys,1780
+761,Frindle,"Andrew Clements, Brian Selznick",1781
+762,Dog Days,Jeff Kinney,1782
+763,The Round House,Louise Erdrich,1783
+764,A Wind in the Door,Madeleine L'Engle,1784
+765,Free Four: Tobias Tells the Divergent Story,Veronica Roth,1785
+766,A Little Life,Hanya Yanagihara,1786
+767,"Y: The Last Man, Vol. 1: Unmanned","Brian K. Vaughan, Pia Guerra, JosÃ© MarzÃ¡n Jr.",1787
+768,The Alloy of Law,Brandon Sanderson,1788
+769,Dead Reckoning,Charlaine Harris,1789
+770,The Accidental Tourist,"Anne Tyler, Jennifer Bassett",1790
+771,Aristotle and Dante Discover the Secrets of the Universe,Benjamin Alire SÃ¡enz,1791
+772,The Invisible Man,H.G. Wells,1792
+773,ä¸–ç•Œã®çµ‚ã‚Šã¨ãƒãƒ¼ãƒ‰ãƒœã‚¤ãƒ«ãƒ‰ãƒ»ãƒ¯ãƒ³ãƒ€ãƒ¼ãƒ©ãƒ³ãƒ‰ [Sekai no owari to hÄdoboirudo wandÄrando],"Haruki Murakami, Alfred Birnbaum",1793
+774,Na margem do rio Piedra eu sentei e chorei,"Paulo Coelho, Alan R. Clarke",1794
+775,Der Schweizerische Robinson,"Johann David Wyss, Scott McKowen, Arthur Pober",1795
+776,Four Past Midnight,Stephen King,1796
+777,The Marriage Bargain,Jennifer Probst,1797
+778,Anne of Avonlea,L.M. Montgomery,1798
+779,The Little Engine That Could,"Watty Piper, Doris Hauman, George Hauman",1799
+780,We Are All Completely Beside Ourselves,Karen Joy Fowler,1800
+781,Children of the Mind,Orson Scott Card,1801
+782,Ulysses,James Joyce,1802
+783,Someone Like You,Sarah Dessen,1803
+784,Moloka'i,Alan Brennert,1804
+785,The Witching Hour,Anne Rice,1805
+786,This Present Darkness,Frank E. Peretti,1806
+787,The Coincidence of Callie & Kayden,Jessica Sorensen,1807
+788,Fates and Furies,Lauren Groff,1808
+789,Summer Sisters,Judy Blume,1809
+790,Stuart Little,"E.B. White, Garth Williams",1810
+791,The Foundation Trilogy,Isaac Asimov,1811
+792,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Brian Greene,1812
+793,The Austere Academy,"Lemony Snicket, Brett Helquist",1813
+794,Seven Up,Janet Evanovich,1814
+795,The Awakening,Kelley Armstrong,1815
+796,Death Masks,Jim Butcher,1816
+797,Stellaluna,Janell Cannon,1817
+798,Before They Are Hanged,Joe Abercrombie,1818
+799,Loving Frank,Nancy Horan,1819
+800,Hard Eight,"Janet Evanovich, Lorelei King",1820
+801,The Vile Village,"Lemony Snicket, Brett Helquist",1821
+802,Sybil,Flora Rheta Schreiber,1822
+803,Cosmos,Carl Sagan,1823
+804,Haunted: A Novel of Stories,Chuck Palahniuk,1824
+805,The Shell Seekers,Rosamunde Pilcher,1825
+806,What Is the What: The Autobiography of Valentino Achak Deng,Dave Eggers,1826
+807,CrÃ³nica de una muerte anunciada,"Gabriel GarcÃ­a MÃ¡rquez, Gregory Rabassa",1827
+808,A Scandal in Bohemia,"Ronald Holt, Arthur Conan Doyle",1828
+809,Killing Lincoln: The Shocking Assassination that Changed America Forever,"Bill O'Reilly, Martin Dugard",1829
+810,The Lowland,Jhumpa Lahiri,1830
+811,The Ruins of Gorlan,John Flanagan,1831
+812,Wintergirls,Laurie Halse Anderson,1832
+813,The Brethren,John Grisham,1833
+814,Assassin's Quest,Robin Hobb,1834
+815,Rosemary's Baby,Ira Levin,1835
+816,The Talisman,"Stephen King, Peter Straub",1836
+817,The Path of Daggers,Robert Jordan,1837
+818,The Dharma Bums,Jack Kerouac,1838
+819,The Reckoning,Kelley Armstrong,1839
+820,"Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity",Katherine Boo,1840
+821,Mary Poppins,"P.L. Travers, Mary Shepard",1841
+822,Red Seas Under Red Skies,Scott Lynch,1842
+823,The House on Mango Street,Sandra Cisneros,1843
+824,City of Thieves,David Benioff,1844
+825,Halfway to the Grave,Jeaniene Frost,1845
+826,The Twits,"Roald Dahl, Quentin Blake",1846
+827,Abhorsen,Garth Nix,1847
+828,The Beach House,"James Patterson, Peter de Jonge",1848
+829,Eyes of the Dragon,Stephen King,1849
+830,Children of Dune,Frank Herbert,1850
+831,Leviathan Wakes,James S.A. Corey,1851
+832,Queen of Shadows,Sarah J. Maas,1852
+833,Maus II : And Here My Troubles Began,Art Spiegelman,1853
+834,The Snowy Day,Ezra Jack Keats,1854
+835,To the Nines,Janet Evanovich,1855
+836,Where We Belong,Emily Giffin,1856
+837,The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus,Richard   Preston,1857
+838,ã‚¹ãƒ—ãƒ¼ãƒˆãƒ‹ã‚¯ã®æ‹äºº [SupÅ«toniku no Koibito],"Haruki Murakami, Philip Gabriel",1858
+839,The Signature of All Things,Elizabeth Gilbert,1859
+840,"Eats, Shoots and Leaves",Lynne Truss,1860
+841,Dead Witch Walking,Kim Harrison,1861
+842,,"Clement C. Moore, Jan Brett",1862
+843,An Echo in the Bone,Diana Gabaldon,1863
+844,Unearthly,Cynthia Hand,1864
+845,The Case for Christ,Lee Strobel,1865
+846,Knife of Dreams,Robert Jordan,1866
+847,Hoot,Carl Hiaasen,1867
+848,Ã†neis,"Virgil, Robert Fitzgerald",1868
+849,This is How You Lose Her,Junot DÃ­az,1869
+850,ã‚¢ãƒ•ã‚¿ãƒ¼ãƒ€ãƒ¼ã‚¯ [AfutÄ dÄku],"Haruki Murakami, Jay Rubin",1870
+851,Ishmael: An Adventure of the Mind and Spirit,Daniel Quinn,1871
+852,It's Not Summer Without You,Jenny Han,1872
+853,Pushing the Limits,Katie McGarry,1873
+854,Quidditch Through the Ages,"Kennilworthy Whisp, J.K. Rowling",1874
+855,Miss Nelson Is Missing!,"Harry Allard, James  Marshall",1875
+856,The Long Walk,"Richard Bachman, Stephen King",1876
+857,The Ersatz Elevator,"Lemony Snicket, Brett Helquist",1877
+858,Messenger,Lois Lowry,1878
+859,Lover Revealed,J.R. Ward,1879
+860,'Salem's Lot The Illustrated Edition,"Stephen King, Jerry N. Uelsmann",1880
+861,The Mysterious Benedict Society,"Trenton Lee Stewart, Carson Ellis",1881
+862,God is Not Great: How Religion Poisons Everything,Christopher Hitchens,1882
+863,"Never Too Far (Too Far, #2)",Abbi Glines,1883
+864,State of Fear,Michael Crichton,1884
+865,The Statistical Probability of Love at First Sight,Jennifer E. Smith,1885
+866,The Golem's Eye,Jonathan Stroud,1886
+867,Still Life with Woodpecker,Tom Robbins,1887
+868,Those Who Save Us,Jenna Blum,1888
+869,The Broker,John Grisham,1889
+870,Across the Universe,Beth Revis,1890
+871,"The Road Less Traveled:  A New Psychology of Love, Traditional Values, and Spiritual Growth",M. Scott Peck,1891
+872,Blood Rites,Jim Butcher,1892
+873,The Boxcar Children,"Gertrude Chandler Warner, L. Kate Deal",1893
+874,The Silent Wife,A.S.A. Harrison,1894
+875,How to Be a Woman,Caitlin Moran,1895
+876,A Court of Mist and Fury,Sarah J. Maas,1896
+877,Life,Keith Richards,1897
+878,Unaccustomed Earth,Jhumpa Lahiri,1898
+879,The Pilot's Wife,Anita Shreve,1899
+880,White Noise,Don DeLillo,1900
+881,"Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",Stephen E. Ambrose,1901
+882,On the Origin of Species by Means of Natural Selection or the Preservation of Favoured Races in the Struggle for Life,Charles Darwin,1902
+883,Blankets,Craig Thompson,1903
+884,The Story of Edgar Sawtelle,David Wroblewski,1904
+885,Drowning Ruth,Christina Schwarz,1905
+886,Post Office,Charles Bukowski,1906
+887,All the Pretty Horses,Cormac McCarthy,1907
+888,"Sherlock Holmes: The Complete Novels and Stories, Vol 2","Arthur Conan Doyle, Kyle Freeman",1908
+889,"One Piece, Volume 01","EiichirÅ Oda, Andy Nakatani",1909
+890,The Last Unicorn,Peter S. Beagle,1910
+891,Magyk,Angie Sage,1911
+892,Fever 1793,Laurie Halse Anderson,1912
+893,The Likeness,Tana French,1913
+894,Dead Wake: The Last Crossing of the Lusitania,Erik Larson,1914
+895,The Jungle Book,Rudyard Kipling,1915
+896,I Am Pilgrim,Terry Hayes,1916
+897,Howl and Other Poems,"Allen Ginsberg, William Carlos Williams",1917
+898,Don't Sweat the Small Stuff,Richard Carlson,1918
+899,Go the Fuck to Sleep,"Adam Mansbach, Ricardo CortÃ©s",1919
+900,Mostly Harmless,Douglas Adams,1920
+901,Benjamin Franklin: An American Life,Walter Isaacson,1921
+902,The Tiger's Wife,TÃ©a Obreht,1922
+903,Poison Study,Maria V. Snyder,1923
+904,Lover Unbound,J.R. Ward,1924
+905,Going Postal,Terry Pratchett,1925
+906,The Book of Mormon,"Anonymous, Joseph Smith Jr.",1926
+907,The Mist,Stephen King,1927
+908,Dead Beat,Jim Butcher,1928
+909,Golden Son,Pierce Brown,1929
+910,Night Watch,Terry Pratchett,1930
+911,The Light Fantastic,Terry Pratchett,1931
+912,What the Dog Saw and Other Adventures,Malcolm Gladwell,1932
+913,Pretty Girls,Karin Slaughter,1933
+914,Last Argument of Kings,Joe Abercrombie,1934
+915,Revival,Stephen King,1935
+916,Horton Hears a Who!,Dr. Seuss,1936
+917,The Blind Side: Evolution of a Game,Michael   Lewis,1937
+918,Lirael,Garth Nix,1938
+919,School's Out Forever,James Patterson,1939
+920,é»’åŸ·äº‹ I [Kuroshitsuji I],"Yana Toboso, Tomo Kimura",1940
+921,Winter,Marissa Meyer,1941
+922,The Strange Case of Dr. Jekyll and Mr. Hyde and Other Tales of Terror,"Robert Louis Stevenson, Robert Mighall",1942
+923,,Emily Seife,1943
+924,The Painted Man,Peter V. Brett,1944
+925,,John Bunyan,1945
+926,One Shot,Lee Child,1946
+927,The Serpent's Shadow,Rick Riordan,1947
+928,Duma Key,Stephen King,1948
+929,The Shifting Fog,Kate Morton,1949
+930,Proven Guilty,Jim Butcher,1951
+931,Ð—Ð°Ð¿Ð¸ÑÐºÐ¸ Ð¸Ð· Ð¿Ð¾Ð´Ð¿Ð¾Ð»ÑŒÑ,"Fyodor Dostoyevsky, Andrew R. MacAndrew, Ben Marcus",1952
+932,The Heart is a Lonely Hunter,Carson McCullers,1953
+933,The Infinite Sea,Rick Yancey,1954
+934,The Once and Future King,T.H. White,1955
+935,Small Gods,Terry Pratchett,1956
+936,"Bud, Not Buddy",Christopher Paul Curtis,1957
+937,,Alison Bechdel,1958
+938,Predictably Irrational: The Hidden Forces that Shape Our Decisions,Dan Ariely,1959
+939,Ø§Ù„ÙÙŠÙ„ Ø§Ù„Ø£Ø²Ø±Ù‚,Ø£Ø­Ù…Ø¯ Ù…Ø±Ø§Ø¯,1960
+940,The Indian in the Cupboard,Lynne Reid Banks,1961
+941,A Memory of Light,"Robert Jordan, Brandon Sanderson",1962
+942,Me and Earl and the Dying Girl,Jesse Andrews,1963
+943,The Ugly Truth,Jeff Kinney,1964
+944,"Janet Evanovich Three and Four Two-Book Set (Stephanie Plum, #3-4)",Janet Evanovich,1965
+945,"The Surgeon of Crowthorne: a tale of murder, madness & the love of words",Simon Winchester,1966
+946,2nd Chance,"James Patterson, Andrew Gross",1967
+947,The Complete Maus,Art Spiegelman,1968
+948,The Eyre Affair,Jasper Fforde,1969
+949,Anne Rice's The Vampire Lestat: The Graphic Novel,"Faye Perozich, Anne Rice, John Bolton, Daerick GrÃ¶ss",1970
+950,,"Louis Sachar, Adam McCauley",1971
+951,The Art of Happiness: A Handbook for Living,"Dalai Lama XIV, Howard C. Cutler",1972
+952,The Bone Clocks,David Mitchell,1973
+953,Black and Blue,Anna Quindlen,1974
+954,,"L.J. Smith, Kevin Williamson, Julie Plec",1975
+955,The Last Juror,John Grisham,1976
+956,Diary,Chuck Palahniuk,1977
+957,Eleven on Top,Janet Evanovich,1978
+958,Tintenblut,"Cornelia Funke, Anthea Bell",1979
+959,"Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto",Chuck Klosterman,1980
+960,Brideshead Revisited: The Sacred and Profane Memories of Captain Charles Ryder,Evelyn Waugh,1981
+961,White Night,Jim Butcher,1982
+962,The Miniaturist,Jessie Burton,1983
+963,Dragons of Autumn Twilight,"Margaret Weis, Tracy Hickman",1984
+964,The Lost Colony,Eoin Colfer,1985
+965,Extras,Scott Westerfeld,1986
+966,The Burning Bridge,John Flanagan,1987
+967,The Book of Life,Deborah Harkness,1988
+968,The Artist's Way: A Spiritual Path to Higher Creativity,Julia Cameron,1989
+969,The Stinky Cheese Man and Other Fairly Stupid Tales,"Jon Scieszka, Lane Smith",1990
+970,Horns,Joe Hill,1991
+971,Catherine the Great: Portrait of a Woman,Robert K. Massie,1992
+972,The Year of the Flood,Margaret Atwood,1993
+973,Winter Garden,Kristin Hannah,1994
+974,The King of Torts,John Grisham,1995
+975,Lone Survivor: The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10,"Marcus Luttrell, Patrick Robinson",1996
+976,The 3 Mistakes of My Life,Chetan Bhagat,1997
+977,The Murder of Roger Ackroyd,Agatha Christie,1998
+978,Native Son,Richard Wright,1999
+979,Shadow's Edge,Brent Weeks,2000
+980,Under the Never Sky,Veronica Rossi,2001
+981,True Believer,Nicholas Sparks,2002
+982,The Lean Startupâ€Ž,Eric Ries,2003
+983,The Golden Lily,Richelle Mead,2004
+984,Chasing Harry Winston,Lauren Weisberger,2005
+985,Magician's Gambit,David Eddings,2006
+986,,"Roberto Aguirre-Sacasa, Stephen King, Mike Perkins, Laura       Martin",2007
+987,The Rise and Fall of the Third Reich: A History of Nazi Germany,William L. Shirer,2008
+988,A Long Way Down,Nick Hornby,2009
+989,Out from Boneville,"Jeff Smith, Steve Hamaker",2010
+990,Rose Madder,Stephen King,2011
+991,"Die Trying (Jack Reacher, #2)",Lee Child,2012
+992,Beautiful Chaos,"Kami Garcia, Margaret Stohl, Paz Pruneda",2013
+993,Keeping Faith,Jodi Picoult,2014
+994,Heart-Shaped Box,Joe Hill,2015
+995,Cabin Fever,Jeff Kinney,2016
+996,,Brent Weeks,2017
+997,Everyone Worth Knowing,Lauren Weisberger,2018
+998,Redwall,Brian Jacques,2019
+999,Manifest der Kommunistischen Partei,"Karl Marx, Friedrich Engels, Gareth Stedman Jones",2020
+1000,The Woman in Cabin 10,Ruth Ware,2021
+1001,The Last of the Mohicans: A Narrative of 1757,James Fenimore Cooper,2022
+1002,Sophie's Choice,William Styron,2023
+1003,Shopaholic and Sister,Sophie Kinsella,2024
+1004,The Iron Daughter,Julie Kagawa,2025
+1005,The Prayer of Jabez:  Breaking Through to the Blessed Life,Bruce H. Wilkinson,2026
+1006,The Age of Miracles,Karen Thompson Walker,2027
+1007,Have a Little Faith: A True Story,Mitch Albom,2028
+1008,My Life in France,"Julia Child, Alex Prud'Homme",2029
+1009,The Rosie Effect,Graeme Simsion,2030
+1010,The Secret of the Nagas.,Amish Tripathi,2031
+1011,Ham on Rye,Charles Bukowski,2032
+1012,Flipped,Wendelin Van Draanen,2033
+1013,Emotional Intelligence 2.0,"Travis Bradberry, Jean Greaves, Patrick Lencioni",2034
+1014,Make Way for Ducklings,Robert McCloskey,2035
+1015,Relic,"Douglas Preston, Lincoln Child",2036
+1016,Small Favor,Jim Butcher,2037
+1017,The Walking Dead Compendium Volume 1,Robert Kirkman,2038
+1018,Princess Academy,Shannon Hale,2039
+1019,"Everything, Everything","Nicola Yoon, David Yoon",2040
+1020,Pygmalion,George Bernard Shaw,2041
+1021,Flight Behavior,Barbara Kingsolver,2042
+1022,Grip of the Shadow Plague,Brandon Mull,2043
+1023,At First Sight,Nicholas Sparks,2044
+1024,The Memoirs of Sherlock Holmes,Arthur Conan Doyle,2045
+1025,The Orphan Master's Son,Adam Johnson,2046
+1026,Enchanters' End Game,David Eddings,2047
+1027,Persepolis,"Marjane Satrapi, Mattias Ripa, Blake Ferris, Anjali Singh",2048
+1028,The Chosen,Chaim Potok,2049
+1029,The Agony and the Ecstasy: A Biographical Novel of Michelangelo,"Irving Stone, ×©×ž×•××œ ×©× ×™×¦×¨",2050
+1030,El juego del Ã¡ngel,"Carlos Ruiz ZafÃ³n, Lucia Graves",2051
+1031,Where Rainbows End,Cecelia Ahern,2052
+1032,Amelia Bedelia,"Peggy Parish, Fritz Siebel",2053
+1033,This Man,Jodi Ellen Malpas,2054
+1034,A Dog's Purpose,W. Bruce Cameron,2055
+1035,An Ember in the Ashes,Sabaa Tahir,2056
+1036,"Lover Enshrined, part one",J.R. Ward,2057
+1037,The Golem and the Jinni,Helene Wecker,2058
+1038,Ø§Ù„Ø£Ø³ÙˆØ¯ ÙŠÙ„ÙŠÙ‚ Ø¨Ùƒ,"Ø£Ø­Ù„Ø§Ù… Ù…Ø³ØªØºØ§Ù†Ù…ÙŠ, Ahlam Mosteghanemi",2059
+1039,The Slippery Slope,"Lemony Snicket, Brett Helquist",2060
+1040,Bleak House,"Charles Dickens, Nicola Bradbury, Hablot Knight Browne",2061
+1041,"Caps for sale: a tale of a peddler, some monkeys and their monkey business",Esphyr Slobodkina,2062
+1042,Furies of Calderon,Jim Butcher,2063
+1043,Alanna: The First Adventure,Tamora Pierce,2064
+1044,Her Fearful Symmetry,Audrey Niffenegger,2065
+1045,The Boston Girl,Anita Diamant,2066
+1046,"Lover Enshrined, part two",J.R. Ward,2067
+1047,The Fall of Hyperion,Dan Simmons,2068
+1048,The Black Dahlia,James Ellroy,2069
+1049,"Through the Looking-Glass, and What Alice Found There","Lewis Carroll, John Tenniel, Peter Glassman",2070
+1050,Wild Swans: Three Daughters of China,Jung Chang,2071
+1051,"Go, Dog. Go!",P.D. Eastman,2072
+1052,,"Laura Ingalls Wilder, Garth Williams",2073
+1053,Finders Keepers,Stephen King,2074
+1054,The Strain,"Guillermo del Toro, Chuck Hogan",2075
+1055,The Complete Poems of Emily Dickinson,"Emily Dickinson, Thomas H. Johnson",2076
+1056,Old Yeller,Fred Gipson,2077
+1057,Born Standing Up: A Comic's Life,Steve Martin,2078
+1058,PostSecret: Extraordinary Confessions from Ordinary Lives,Frank Warren,2079
+1059,A Storm of Swords: Part 2 Blood and Gold,George R.R. Martin,2080
+1060,The Borrowers Afield,"Mary Norton, Beth Krush, Joe Krush",2081
+1061,Hearts in Atlantis,Stephen King,2082
+1062,,Jodi Picoult,2083
+1063,ç¾Šã‚’ã‚ãã‚‹å†’é™º [HitsujiwomegurubÅken],"Haruki Murakami, Alfred Birnbaum",2084
+1064,The Queen's Fool,Philippa Gregory,2085
+1065,Days of Blood & Starlight,Laini Taylor,2086
+1066,Jitterbug Perfume,Tom Robbins,2087
+1067,"The Battle for Skandia (Ranger's Apprentice, #4)",John Flanagan,2088
+1068,The Darkest Minds,Alexandra Bracken,2089
+1069,O Zahir,"Paulo Coelho, Margaret Jull Costa",2090
+1070,The Power of Positive Thinking,Norman Vincent Peale,2091
+1071,"In a Dark, Dark Wood",Ruth Ware,2092
+1072,The House of Mirth,"Edith Wharton, Nina Bawden",2093
+1073,Fairy Tail 1,"Hiro Mashima, William Flanagan",2094
+1074,The Slow Regard of Silent Things,"Patrick Rothfuss, Nate  Taylor",2095
+1075,Twelve Years a Slave,Solomon Northup,2096
+1076,"Lover Avenged, part one",J.R. Ward,2097
+1077,In the Heart of the Sea: The Tragedy of the Whaleship Essex,Nathaniel Philbrick,2098
+1078,Infidel,Ayaan Hirsi Ali,2099
+1079,The Black Swan: The Impact of the Highly Improbable,Nassim Nicholas Taleb,2100
+1080,The Twelve,Justin Cronin,2101
+1081,ÐžÐ´Ð¸Ð½ Ð´ÐµÐ½ÑŒ Ð˜Ð²Ð°Ð½Ð° Ð”ÐµÐ½Ð¸ÑÐ¾Ð²Ð¸Ñ‡Ð°,"Aleksandr Solzhenitsyn, H.T. Willetts",2102
+1082,The Diamond Age,Neal Stephenson,2103
+1083,A Canticle for Leibowitz,Walter M. Miller Jr.,2104
+1084,á¼ˆÎ½Ï„Î¹Î³ÏŒÎ½Î·,"Sophocles, J.E. Thomas",2105
+1085,Brooklyn,Colm TÃ³ibÃ­n,2106
+1086,Wither,Lauren DeStefano,2107
+1087,Hillbilly Elegy. A Memoir of a Family and Culture in Crisis,J.D. Vance,2108
+1088,Crossroads of Twilight,Robert Jordan,2109
+1089,The Red Badge of Courage,Stephen Crane,2110
+1090,What If?: Serious Scientific Answers to Absurd Hypothetical Questions,Randall Munroe,2111
+1091,Gardens of the Moon,Steven Erikson,2112
+1092,A Bruxa de Portobello,Paulo Coelho,2113
+1093,A Swiftly Tilting Planet,Madeleine L'Engle,2114
+1094,Gregor the Overlander,Suzanne Collins,2115
+1095,Sing You Home,Jodi Picoult,2116
+1096,The Tale of the Body Thief,Anne Rice,2117
+1097,The Camel Club,David Baldacci,2118
+1098,Saving The World and Other Extreme Sports,James Patterson,2119
+1099,Blood of the Fold,Terry Goodkind,2120
+1100,The Boleyn Inheritance,Philippa Gregory,2121
+1101,A Spool of Blue Thread,Anne Tyler,2122
+1102,The Underground Railroad,Colson Whitehead,2123
+1103,Masquerade,Melissa de la Cruz,2124
+1104,The Iron Queen,Julie Kagawa,2125
+1105,Losing It,Cora Carmack,2126
+1106,The Racketeer,John Grisham,2127
+1107,Disgrace,J.M. Coetzee,2128
+1108,The House at Pooh Corner,"A.A. Milne, Ernest H. Shepard",2129
+1109,The Black Prism,Brent Weeks,2130
+1110,The Mermaid Chair,Sue Monk Kidd,2131
+1111,Frog and Toad Are Friends,Arnold Lobel,2132
+1112,The Carnivorous Carnival,"Lemony Snicket, Brett Helquist",2133
+1113,Heist Society,Ally Carter,2134
+1114,Behind Closed Doors,B.A. Paris,2135
+1115,The Killer Angels,Michael Shaara,2136
+1116,"Circus of the Damned (Anita Blake, Vampire Hunter, #3)",Laurell K. Hamilton,2137
+1117,Ptolemy's Gate,Jonathan Stroud,2138
+1118,The Island of Dr. Moreau,H.G. Wells,2139
+1119,Opal,Jennifer L. Armentrout,2140
+1120,Zeitoun,Dave Eggers,2141
+1121,Out of My Mind,Sharon M. Draper,2142
+1122,Rapture,Lauren Kate,2143
+1123,Switched,Amanda Hocking,2144
+1124,Ð”Ð¾ÐºÑ‚Ð¾Ñ€ Ð–Ð¸Ð²Ð°Ð³Ð¾,"Boris Pasternak, Max Hayward, Manya Harari, John Bayley",2145
+1125,,Colleen Hoover,2146
+1126,Pines,Blake Crouch,2147
+1127,Disclosure,Michael Crichton,2148
+1128,Death Comes to Pemberley,P.D. James,2149
+1129,Ethan Frome,Edith Wharton,2150
+1130,A Map of the World,"Jane Hamilton, Frank  Muller, C.J. Critt",2151
+1131,It Ends with Us,Colleen Hoover,2152
+1132,The Gift of the Magi,"O. Henry, Lisbeth Zwerger",2153
+1133,The Electric Kool-Aid Acid Test,Tom Wolfe,2154
+1134,The Naked Lunch,"William S. Burroughs, James Grauerholz, Barry  Miles",2155
+1135,The Sandman: Dream Country,"Neil Gaiman, Kelley Jones, Charles Vess, Colleen Doran, Malcolm Jones III, Steve Erickson",2156
+1136,A Painted House,John Grisham,2157
+1137,The Left Hand of Darkness,"Ursula K. Le Guin, Lech JÄ™czmyk",2158
+1138,Let It Snow: Three Holiday Romances,"John Green, Maureen Johnson, Lauren Myracle",2159
+1139,"Full Dark, No Stars",Stephen King,2160
+1140,Being Mortal: Medicine and What Matters in the End,Atul Gawande,2161
+1141,Intensity,Dean Koontz,2162
+1142,Chelsea Chelsea Bang Bang,Chelsea Handler,2163
+1143,Et dukkehjem,"Henrik Ibsen, Michael   Meyer",2164
+1144,Hawaii,James A. Michener,2165
+1145,Revolutionary Road,Richard Yates,2166
+1146,Nick & Norah's Infinite Playlist,"Rachel Cohn, David Levithan",2167
+1147,Rosencrantz and Guildenstern are Dead,"Tom Stoppard, Henry Popkin",2168
+1148,Forever,Maggie Stiefvater,2169
+1149,The Beach,Alex Garland,2170
+1150,Saving CeeCee Honeycutt,"Beth Hoffman, Jenna Lamia",2171
+1151,Deadlocked,Charlaine Harris,2172
+1152,Everything's Eventual: 14 Dark Tales,Stephen King,2173
+1153,Beezus and Ramona,Beverly Cleary,2174
+1154,The Farthest Shore,Ursula K. Le Guin,2175
+1155,Airframe,Michael Crichton,2176
+1156,Magician,Raymond E. Feist,2177
+1157,Bet Me,Jennifer Crusie,2178
+1158,Long Walk to Freedom: The Autobiography of Nelson Mandela,Nelson Mandela,2179
+1159,Gray Mountain,John Grisham,2180
+1160,The Power of One,Bryce Courtenay,2181
+1161,The Maltese Falcon,Dashiell Hammett,2182
+1162,Night Road,Kristin Hannah,2183
+1163,Tripwire,Lee Child,2184
+1164,About a Boy,Nick Hornby,2449
+1165,White Teeth,Zadie Smith,2659
+1166,Chocolat,Joanne Harris,2785
+1167,Notes from a Small Island,Bill Bryson,3103
+1168,Bridget Jones: The Edge of Reason,Helen Fielding,3111
+1169,Captain Corelli's Mandolin,Louis de BerniÃ¨res,3112
+1170,Down Under,Bill Bryson,3114
+1171,nan,"Kenneth Branagh, William Shakespeare",4273
+1172,nan,Brandon Sanderson,4283
+1173,nan,Mark Cotta Vaz,4354
+1174,nan,Kate Egan,4435
+1175,nan,Allie Brosh,4439
+1176,nan,Phaidon Press,4494
+1177,nan,E.L. James,4561
+1178,nan,Isaac Asimov,4608
+1179,nan,"Marcus Pfister, J. Alison James",4689
+1180,nan,"Robert Kapilow, Dr. Seuss",4694
+1181,nan,Robert Jordan,4741
+1182,nan,"Clement C. Moore, Jan Brett",4992
+1183,nan,Emily Seife,5073
+1184,nan,John Bunyan,5075
+1185,nan,Alison Bechdel,5088
+1186,nan,"Louis Sachar, Adam McCauley",5101
+1187,nan,"L.J. Smith, Kevin Williamson, Julie Plec",5105
+1188,nan,"Roberto Aguirre-Sacasa, Stephen King, Mike Perkins, Laura       Martin",5137
+1189,nan,Brent Weeks,5147
+1190,nan,"Laura Ingalls Wilder, Garth Williams",5207
+1191,nan,Jodi Picoult,5217
+1192,nan,Colleen Hoover,5280
